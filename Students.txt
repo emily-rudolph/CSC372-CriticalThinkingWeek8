@@ -1,0 +1,4 @@
+Name: Abby, Address: 123 Example Street, GPA: 4.0
+Name: Chris, Address: 643 Example Street, GPA: 4.0
+Name: Dave, Address: 352 Example Street, GPA: 2.0
+Name: Mike, Address: 432 Example Street, GPA: 3.0
